@@ -1,0 +1,18 @@
+h1{
+    color: rgb(16, 2, 136);
+}
+h1:hover{
+    color: rgb(31, 212, 61);
+}
+p:active{
+    color: rgb(185, 128, 21);
+}
+a{
+    color: lightgrey;
+}
+a:link{
+    color: orange;
+}
+img:hover{
+    display: contents;
+}
